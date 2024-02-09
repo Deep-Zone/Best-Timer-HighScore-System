@@ -23,9 +23,3 @@ The "Best Timer HighScore System" or Last time is a free Unity package that prov
 - Includes Example Scene
 
 For more detailed instructions and examples, refer to the included documentation and example scene.
-
-## Contact
-
-If you have any questions or need further assistance, please contact us at Assetdeepzone@gmail.com. 
-
-My store : https://assetstore.unity.com/publishers/77261
